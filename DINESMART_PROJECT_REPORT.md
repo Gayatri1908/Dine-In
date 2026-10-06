@@ -3,9 +3,7 @@
 ## Complete Feature Documentation & Technical Architecture
 
 **Version:** 1.0.0  
-**Date:** May 2026  
-**Author:** Subhra Kanta Behera  
-**Repository:** [github.com/Subhra1432/Dine_Smart](https://github.com/Subhra1432/Dine_Smart)  
+**Date:** May 2026   
 **Live URL:** [dine-smart-9auy.onrender.com](https://dine-smart-9auy.onrender.com)
 
 ---
